@@ -1,0 +1,16 @@
+{
+  "joins": [],
+  "contacts": [],
+  "research": [],
+  "newsletter": [
+    {
+      "id": "nl-1787219963623",
+      "email": "rajan.jha114430@gmail.com",
+      "source": "Website Footer",
+      "subscribedAt": "2026-08-20T09:59:23.623Z",
+      "status": "Active",
+      "createdAt": "2026-08-20T09:59:23.627Z"
+    }
+  ],
+  "registrations": []
+}

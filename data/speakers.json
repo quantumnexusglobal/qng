@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Dr. Ramesh Nair",
+    "image": "/speaker/ramesh_nais.jpg",
+    "bio": "Quantum computing researcher with 10+ years in superconducting qubits.",
+    "linkedin": "https://linkedin.com/in/rameshnair",
+    "twitter": "https://twitter.com/rameshnair"
+  },
+  {
+    "name": "Ankit Verma",
+    "image": "/speaker/ankit_verma.jpg",
+    "bio": "AI/ML engineer focusing on quantum‑accelerated neural networks.",
+    "linkedin": "https://linkedin.com/in/ankitverma",
+    "twitter": "https://twitter.com/ankitverma"
+  },
+  {
+    "name": "Prof. Shreya Mehta",
+    "image": "/speaker/shreya_mehta.jpg",
+    "bio": "Professor of Quantum Information at IIT Delhi, author of several QIP papers.",
+    "linkedin": "https://linkedin.com/in/shreyamehta",
+    "twitter": "https://twitter.com/shreyamehta"
+  },
+  {
+    "name": "Rajan Jha",
+    "image": "/speaker/rajan_jha.jpg",
+    "bio": "CTO of QNexus India, driving quantum‑ready enterprise solutions.",
+    "linkedin": "https://linkedin.com/in/rajanjha",
+    "twitter": "https://twitter.com/rajanjha"
+  }
+]
